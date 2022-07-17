@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CountriesProject</string>
+    <string name="by_lyubomir_babev">by\nLyubomir Babev</string>
+    <string name="tap_here_to_search">Tap here to search...</string>
+    <string name="country_colons">Country:</string>
+    <string name="region_colons">Region:</string>
+    <string name="population_colons">Population:</string>
+    <string name="capital_colons">Capital:</string>
+    <string name="flag_colons">Flag:</string>
+    <string name="country_details">Country details</string>
+    <string name="a_problem_occured_please_check_your_internet_connection">A problem occurred, please check your internet connection.</string>
+    <string name="no_countries_found">No countries found.</string>
+</resources>

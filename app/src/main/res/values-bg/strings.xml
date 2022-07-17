@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CountriesProject</string>
+    <string name="by_lyubomir_babev">от\nЛюбомир Бабев</string>
+    <string name="tap_here_to_search">Натисни тук за да търсиш...</string>
+    <string name="country_colons">Държава:</string>
+    <string name="region_colons">Регион:</string>
+    <string name="population_colons">Популация:</string>
+    <string name="capital_colons">Столица:</string>
+    <string name="flag_colons">Флаг:</string>
+    <string name="country_details">Детайли на държава</string>
+    <string name="a_problem_occured_please_check_your_internet_connection">Възникна проблем, моля проверете интернет връзката си</string>
+    <string name="no_countries_found">Няма намерени държави.</string>
+</resources>

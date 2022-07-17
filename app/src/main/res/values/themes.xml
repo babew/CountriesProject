@@ -1,0 +1,15 @@
+<resources>
+    <style name="Theme.CountriesProject" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/color_00B0FF</item>
+        <item name="colorPrimaryDark">@color/color_0091EA</item>
+        <item name="colorSecondary">@color/white</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textColorHint">@color/white</item>
+        <item name="android:windowBackground">@color/color_40C4FF</item>
+        <item name="android:editTextColor">@color/white</item>
+    </style>
+
+    <style name="EditTextThemeOverlay" parent="ThemeOverlay.AppCompat">
+        <item name="colorAccent">?attr/colorPrimary</item>
+    </style>
+</resources>
